@@ -1,0 +1,451 @@
+partner_id,partner_name,city,vehicle_type,employment_type,joined_date
+P2000,Swati Reddy,Delhi,EV Bike,Full-time,2024-01-06
+P2001,Siddharth Chopra,Delhi,scooter,gig,2025-06-21
+P2002,Swati Rao,Pune,Scooter,Gig,2023-05-21
+P2003,Anjali Joshi,Chennai,Bike,Full-time,2025-02-04
+P2004,Manish Chopra,Mumbai,scooter,Full-time,2023-11-03
+P2005,Diya Malhotra,Bengaluru,Bike,Full-time,2023-10-10
+P2006,Arjun Das,Pune,Bicycle,Full-time,2023-06-29
+P2007,Kabir Nair,Bengaluru,Bike,Full-time,2024-12-17
+P2008,Ishita Chopra,Bengaluru,Scooty,Gig,2025-07-29
+P2009,Amit Naidu,Hyderabad,EV Bike,Gig,2024-04-07
+P2010,Vikram Bose,Bengaluru,Bike,Gig,2025-08-06
+P2011,Neha Kumar,Mumbai,Bike,Full-time,2024-01-23
+P2012,Ananya Verma,Delhi,Bike,Gig,2023-06-02
+P2013,Vikram Sen,Delhi,Motorcycle,Gig,2025-12-12
+P2014,Arjun Jain,Mumbai,Scooter,Gig,2023-06-08
+P2015,Sneha Malhotra,Mumbai,Motorcycle,Gig,2023-09-10
+P2016,Riya Bose,Mumbai,scooter,Full-time,2024-06-04
+P2017,Siddharth Gupta,Bengaluru,Bicycle,Full-time,2024-10-31
+P2018,Arjun Chatterjee,Delhi,Bicycle,Full-time,2023-02-02
+P2019,Diya Chopra,bengaluru,Motorcycle,Full-time,2024-06-21
+P2020,Manish Mukherjee,bengaluru,Bike,Gig,2024-08-15
+P2021,Shreya Sen,Chennai,Bike,Gig,2025-08-29
+P2022,Kabir Gupta,Bengaluru,EV Bike,Full-time,2025-05-17
+P2023,Vivaan Chopra,Bengaluru,EV Bike,Gig,2024-02-21
+P2024,Lakshmi Gupta,Madras,Bike,Gig,2025-11-03
+P2025,Pranav Chatterjee,Mumbai,Bike,Gig,2024-10-13
+P2026,Ananya Chatterjee,Delhi,EV Bike,Gig,2023-12-28
+P2027,Sanjana Chopra,Mumbai,bike,Gig,2026-04-07
+P2028,Harsh Verma,DELHI,Bike,Full-time,2023-12-06
+P2029,Tanvi Patel,Chennai,Bike,Gig,2023-09-06
+P2030,Vikram Menon,Delhi,scooter,Gig,2024-09-26
+P2031,Suresh Mukherjee,Mumbai,EV Bike,Full-time,2025-05-03
+P2032,Swati Chatterjee,DELHI,Scooter,Full-time,2023-04-16
+P2033,Suresh Pillai,Chennai,Scooter,Gig,2026-04-08
+P2034,Arjun Joshi,Bengaluru,Bike,Gig,2026-05-25
+P2035,Neha Verma,Hyderabad ,Bike,Gig,2025-06-09
+P2036,Riya Chatterjee,Mumbai,Bike,Gig,2023-05-26
+P2037,Amit Mukherjee,Bengaluru,Scooter,FT,2023-07-31
+P2038,Riya Singh,Pune,Bike,Gig,2024-01-30
+P2039,Rahul Pillai,Mumbai,Scooter,Gig,2023-06-26
+P2040,Pranav Mukherjee,Mumbai,Bike,Full-time,2024-11-03
+P2041,Ananya Joshi,Delhi,Scooter,Gig Worker,2023-12-26
+P2042,Anjali Shah,Chennai,Bike,Gig,2025-07-07
+P2043,Ishaan Reddy,Bengaluru,EV Bike,Gig,2025-02-07
+P2044,Sourav Bose,Hyderabad,Scooter,Gig,2023-09-19
+P2045,Aditi Bose,Mumbai,Bike,Gig,2023-08-16
+P2046,Sourav Banerjee,Mumbai,EV Bike,Gig,2026-03-17
+P2047,Amit Reddy,Chennai,Bike,Gig Worker,2026-03-15
+P2048,Harsh Bose,Chennai,Bike,Full-time,2024-03-23
+P2049,Ritika Sharma,Pune,Scooter,Full-time,2023-12-24
+P2050,Siddharth Nair,Delhi ,Bike,Gig,2025-11-29
+P2051,Kabir Patel,Chennai,Bike,Gig,2024-01-23
+P2052,Sunita Malhotra,Pune,EV Bike,Gig,2025-10-17
+P2053,Pranav Pillai,Mumbai,Scooter,Gig,2023-11-26
+P2054,Amit Banerjee,Delhi,Scooter,Full-time,2026-05-30
+P2055,Ishaan Menon,Hyderabad,Bike,Gig,2025-03-04
+P2056,Neha Rao,Pune,Scooter,Full-time,2023-11-12
+P2057,Rahul Chatterjee,Bengaluru,EV Bike,Full-time,2023-08-04
+P2058,Swati Mukherjee,Bengaluru,Scooter,Gig,2023-12-30
+P2059,Yash Joshi,Hyderabad,Scooter,Full-time,2023-08-15
+P2060,Sanjana Pillai,Chennai,scooter,gig,2025-03-14
+P2061,Pooja Mukherjee,Pune,Bike,Gig,2024-08-02
+P2062,Diya Singh,mumbai,bike,Full-time,2025-09-20
+P2063,Ritika Bose,Mumbai,Bike,Gig,2023-12-07
+P2064,Rohan Sen,Bengaluru,Bicycle,gig,2023-05-26
+P2065,Nikhil Chatterjee,Bengaluru ,Bicycle,Full-time,2024-05-01
+P2066,Rahul Menon,Bengaluru,Scooter,Gig,2023-06-28
+P2067,Ishaan Das,Delhi,EV Bike,Gig,2023-07-03
+P2068,Sourav Sen,Bengaluru,Bike,Gig,2025-10-21
+P2069,Pranav Rao,Bengaluru,EV Bike,Gig,2024-05-25
+P2070,Suresh Rao,Delhi,Scooter,Full-time,2024-10-20
+P2071,Vikram Desai,Bengaluru,Scooter,Gig,2023-10-14
+P2072,Aditya Chatterjee,Delhi,EV Bike,Gig,2025-09-09
+P2073,Ishita Bose,Pune,Scooter,Gig,2023-02-06
+P2074,Ananya Mukherjee,Kolkata,Bike,Full-time,2025-10-06
+P2075,Siddharth Naidu,Pune,Bike,Gig,2025-03-29
+P2076,Vikram Shah,Mumbai,Scooter,Gig,2023-09-07
+P2077,Aditi Joshi,Bengaluru,Bike,Gig,2024-11-08
+P2078,Siddharth Singh,Kolkata,Scooter,gig,2024-09-04
+P2079,Sunita Shah,Bengaluru,Scooter,Full-time,2024-04-30
+P2080,Aditya Pillai,Mumbai,Motorcycle,Gig,2024-04-05
+P2081,Rahul Mehta,Kolkata,Bike,Gig,2024-03-13
+P2082,Aditya Menon,Mumbai,Bike,Gig,2023-12-04
+P2083,Diya Kumar,Mumbai,Scooter,Gig,2024-08-05
+P2084,Ishaan Bose,Bengaluru,Bike,Gig,2023-08-07
+P2085,Sourav Desai,Bengaluru,Scooter,Gig,2026-05-15
+P2086,Rahul Ghosh,Mumbai,Bike,Gig,2024-03-19
+P2087,Nandini Gupta,Mumbai,Scooter,Gig,2023-08-21
+P2088,Sunita Reddy,Bengaluru,Bike,Gig,2024-07-11
+P2089,Kavya Sen,Delhi,Bike,Full-time,2024-04-07
+P2090,Ritika Rao,Kolkata,EV Bike,Full-time,2023-04-20
+P2091,Swati Gupta,Pune,Bike,Full Time,2025-10-09
+P2092,Nandini Kumar,Pune,Scooter,Full-time,2023-08-25
+P2093,Aditya Singh,Mumbai,EV Bike,Gig,2025-09-01
+P2094,Sunita Mehta,Chennai,EV bike,Gig,2024-08-14
+P2095,Nandini Patel,Bengaluru,Bike,Gig,2023-10-16
+P2096,Pranav Jain,bengaluru,Bike,Gig,2023-10-22
+P2097,Ritika Mukherjee,Kolkata,Scooter,Gig,2024-11-06
+P2098,Sneha Kumar,Bengaluru,Bicycle,Gig Worker,2024-09-18
+P2099,Suresh Sharma,Pune,Scooter,Full-time,2024-08-24
+P2100,Pranav Patel,Bengaluru,Bike,Gig,2024-01-22
+P2101,Aditi Gupta,DELHI,Bike,Gig,2023-09-13
+P2102,Neha Jain,Hyderabad,Bike,Gig,2024-10-27
+P2103,Sourav Reddy,Delhi,Bike,Gig,2023-02-20
+P2104,Pranav Desai,Chennai,Bike,Gig,2026-06-04
+P2105,Suresh Ghosh,Mumbai,Scooter,Full-time,2026-05-11
+P2106,Siddharth Nair,Mumbai,Bike,Gig,2023-12-07
+P2107,Sneha Malhotra,Hyderabad,EV Bike,Full-time,2026-01-10
+P2108,Amit Gupta,New Delhi,EV Bike,Gig,2024-12-05
+P2109,Yash Verma,Delhi,Bike,Gig,2025-06-01
+P2110,Debashis Agarwal,Delhi,Scooter,Gig,2023-02-21
+P2111,Nikhil Gupta,Mumbai,EV Bike,Full-time,2023-09-03
+P2112,Pranav Bose,Pune,Scooter,Gig,2024-06-20
+P2113,Ishaan Reddy,Pune,Bike,Full-time,2026-02-28
+P2114,Ishaan Verma,Delhi,EV Bike,Gig,2024-11-03
+P2115,Neha Kulkarni,Bengaluru,EV Bike,Full-time,2025-06-16
+P2116,Meera Desai,Delhi,bike,Gig,2023-01-25
+P2117,Tanvi Mehta,Chennai,Bike,Gig,2023-09-09
+P2118,Sanjana Nair,Delhi,Bike,Gig,2024-08-17
+P2119,Arjun Reddy,Mumbai,EV Bike,Gig,2023-08-10
+P2120,Amit Jain,Mumbai,Bike,Full-time,2024-06-18
+P2121,Debashis Kapoor,Pune,Bike,Full-time,2023-08-21
+P2122,Vikram Das,Hyderabad,Bike,Gig,2024-01-24
+P2123,Arjun Pillai,Delhi,Motorcycle,Gig,2026-02-25
+P2124,Rahul Chatterjee,Mumbai,Scooter,Full-time,2024-01-12
+P2125,Rohan Singh,Hyderabad,Scooter,FT,2025-07-05
+P2126,Sanjana Das,Hyderabad,Bike,Gig,2024-10-23
+P2127,Aarav Das,Pune,EV Bike,Full-time,2023-11-27
+P2128,Rohan Chopra,Mumbai,Bike,Full-time,2024-09-07
+P2129,Riya Gupta,Delhi,Scooter,Gig,2024-04-04
+P2130,Manish Kapoor,Delhi,Scooter,Gig,2023-09-08
+P2131,Karthik Joshi,Delhi,EV Bike,Gig,2023-06-07
+P2132,Ishita Menon,Mumbai,EV Bike,Gig,2023-08-09
+P2133,Kavya Das,Bengaluru,Scooter,Gig Worker,2025-12-25
+P2134,Vikram Sharma,DELHI,scooter,gig,2023-07-29
+P2135,Aarav Kumar,Hyderabad,Scooter,Full-time,2026-02-14
+P2136,Ananya Gupta,Bengaluru,Scooter,Gig,2025-03-18
+P2137,Ritika Menon,Chennai,EV Bike,Gig,2023-10-09
+P2138,Lakshmi Mehta,Mumbai,Scooter,Gig,2023-10-30
+P2139,Aarav Chopra,Bengaluru,Scooter,Full-time,2024-05-14
+P2140,Riya Sen,Hyderabad,Bike,Full-time,2025-03-03
+P2141,Tanvi Chatterjee,Bombay,Bike,Gig,2023-11-09
+P2142,Nandini Desai,Hyderabad,Scooter,Gig,2023-10-01
+P2143,Sourav Singh,Mumbai,Bike,Full-time,2023-10-31
+P2144,Kabir Chopra,Kolkata,Scooter,Gig,2023-06-21
+P2145,Ananya Singh,Mumbai,Bike,Full-time,2026-03-27
+P2146,Sneha Banerjee,Hyderabad,Bike,Full-time,2023-06-18
+P2147,Sanjana Kapoor,Bengaluru,Bike,Full-time,2025-07-02
+P2148,Yash Mukherjee,Bengaluru ,Bike,Gig,2023-08-23
+P2149,Tanvi Bose,Mumbai,Scooter,Full-time,2025-07-21
+P2150,Debashis Rao,Kolkata,Scooter,gig,2026-02-23
+P2151,Sourav Patel,DELHI,Bike,FT,2023-08-21
+P2152,Sanjana Ghosh,Mumbai,Bike,Full-time,2024-07-05
+P2153,Ishita Gupta,Chennai,Bike,Gig,2024-05-08
+P2154,Nandini Shah,Bengaluru,bike,Full-time,2025-03-15
+P2155,Arjun Patel,Pune,Bike,Gig,2026-04-26
+P2156,Kavya Pillai,Bengaluru ,Scooty,Gig,2025-12-02
+P2157,Vikram Chopra,Hyderabad,EV Bike,Full-time,2026-01-27
+P2158,Sanjana Sharma,Delhi,Bike,Full-time,2025-06-01
+P2159,Arjun Pillai,Bengaluru,Scooter,Full-time,2023-10-03
+P2160,Nandini Kulkarni,Bengaluru,EV Bike,Gig,2024-05-26
+P2161,Manish Agarwal,Mumbai,Bike,Gig,2023-04-29
+P2162,Debashis Menon,Bengaluru,EV Bike,Gig,2023-12-27
+P2163,Aditya Joshi,Kolkata,Bike,Gig,2024-07-01
+P2164,Rahul Kulkarni,Bengaluru,Bike,Gig,2023-12-13
+P2165,Sneha Malhotra,Mumbai,Scooter,Gig,2023-10-19
+P2166,Amit Reddy,Mumbai,Bike,Gig,2023-07-07
+P2167,Meera Mukherjee,Mumbai,Bike,Full-time,2023-07-15
+P2168,Siddharth Sharma,Bengaluru,Scooter,Full Time,2023-01-18
+P2169,Sourav Sen,Delhi,Bike,Gig,2024-04-27
+P2170,Ananya Kulkarni,Hyderabad,Bicycle,Gig,2023-05-01
+P2171,Rohan Gupta,Hyderabad,Scooty,gig,2025-02-08
+P2172,Nikhil Sen,Delhi,Bike,Gig,2024-10-12
+P2173,Karthik Sen,Chennai,EV Bike,Gig,2023-01-02
+P2174,Yash Nair,Mumbai,Bike,Gig,2026-03-03
+P2175,Tanvi Agarwal,Delhi,Motorcycle,Full-time,2024-07-29
+P2176,Tanvi Desai,Bengaluru,Bike,Gig,2024-01-02
+P2177,Suresh Sharma,Bengaluru,Scooter,Gig,2023-03-19
+P2178,Shreya Menon,MUMBAI,Bike,gig,2024-09-15
+P2179,Arjun Desai,Mumbai,Bike,Full-time,2023-02-05
+P2180,Kabir Kulkarni,Bengaluru,Bike,Gig,2023-08-08
+P2181,Aarav Agarwal,Bengaluru,Bike,Gig Worker,2025-05-14
+P2182,Yash Mehta,Delhi,Bike,Full-time,2025-05-29
+P2183,Rohan Mehta,BLR,Bike,Full-time,2025-04-08
+P2184,Lakshmi Ghosh,Kolkata,Bike,Gig,2023-02-02
+P2185,Vikram Ghosh,Mumbai,Scooter,Full-time,2023-02-15
+P2186,Ananya Chopra,bengaluru,Bike,Full-time,2023-12-08
+P2187,Karthik Mehta,Bengaluru,Bike,Full-time,2023-08-25
+P2188,Ritika Verma,Mumbai,Scooter,gig,2023-09-23
+P2189,Aditi Verma,Pune,Bike,Gig,2024-01-16
+P2190,Neha Ghosh,Bengaluru,Bike,Full-time,2023-09-03
+P2191,Arjun Jain,Kolkata,Bike,Full-time,2024-01-11
+P2192,Suresh Chatterjee,Kolkata,Bike,Full-time,2026-04-07
+P2193,Amit Kulkarni,Hyderabad,Scooter,Full-time,2026-04-02
+P2194,Rahul Chatterjee,Bengaluru,Motorcycle,Gig,2024-01-26
+P2195,Kavya Mehta,Bengaluru,Scooter,Gig,2025-04-01
+P2196,Sanjana Patel,Mumbai,Bike,Gig,2023-01-28
+P2197,Pooja Menon,Hyderabad,Bike,Full-time,2024-12-15
+P2198,Rohan Mehta,Hyderabad,Scooter,Gig,2025-08-23
+P2199,Anjali Verma,Mumbai,Bike,Full-time,2024-10-18
+P2200,Lakshmi Kumar,BLR,Bike,Gig,2025-04-16
+P2201,Ishaan Naidu,Delhi,Scooter,Full-time,2023-02-22
+P2202,Meera Mukherjee,Delhi ,Scooty,Gig,2025-05-30
+P2203,Karthik Desai,Hyderabad,Bike,Gig,2023-12-23
+P2204,Ishita Verma,Pune,Bike,Gig,2024-03-11
+P2205,Karthik Rao,Delhi,EV Bike,full-time,2023-04-14
+P2206,Sunita Sharma,Kolkata,Bike,Gig,2023-06-28
+P2207,Amit Chopra,Delhi,Bike,Gig,2024-12-20
+P2208,Nikhil Joshi,Delhi,Bike,Gig,2023-05-12
+P2209,Karthik Rao,Mumbai,EV Bike,Gig,2023-12-15
+P2210,Aditi Patel,Hyderabad,Motorcycle,Gig,2024-09-18
+P2211,Sneha Verma,Mumbai,bike,Gig,2023-08-16
+P2212,Pooja Mehta,MUMBAI,Bike,Gig Worker,2023-12-03
+P2213,Vikram Kumar,Bengaluru,Bike,full-time,2023-08-31
+P2214,Suresh Gupta,Mumbai,Bike,Gig,2024-07-23
+P2215,Anjali Desai,DELHI,Bike,Gig,2023-12-29
+P2216,Suresh Banerjee,Delhi,Bike,Gig,2024-05-03
+P2217,Pranav Chatterjee,Pune,EV Bike,Gig Worker,2023-02-05
+P2218,Riya Rao,Bengaluru,EV Bike,Gig,2023-08-26
+P2219,Lakshmi Kulkarni,Mumbai,Scooter,Gig,2025-11-06
+P2220,Kavya Iyer,Kolkata,EV Bike,Gig,2023-05-28
+P2221,Manish Verma,Mumbai,Scooter,Full-time,2024-02-13
+P2222,Vivaan Rao,Bengaluru,Bike,Full-time,2025-02-12
+P2223,Ritika Kumar,Mumbai,Bike,Gig,2025-03-18
+P2224,Yash Chopra,Bengaluru,Bike,Full-time,2024-03-27
+P2225,Kabir Mehta,Delhi,Scooter,Gig,2025-02-06
+P2226,Anjali Mukherjee,Mumbai,Scooter,Full-time,2023-09-11
+P2227,Sourav Mukherjee,Delhi,Bike,Gig,2025-12-25
+P2228,Manish Malhotra,Pune,Scooter,Gig,2023-03-28
+P2229,Debashis Kulkarni,Mumbai,Scooter,Full-time,2025-09-16
+P2230,Ishita Gupta,Bengaluru,Motorcycle,Full-time,2024-03-05
+P2231,Priya Pillai,Mumbai,Scooter,Gig,2023-03-03
+P2232,Diya Kulkarni,Delhi,Bike,Gig,2023-03-23
+P2233,Ritika Desai,Pune,bike,Gig,2024-03-27
+P2234,Karthik Gupta,Mumbai,Scooter,gig,2024-02-20
+P2235,Aditya Das,delhi,EV Bike,Gig,2024-10-02
+P2236,Ananya Kapoor,Mumbai,Bicycle,Gig,2025-04-13
+P2237,Sanjana Mukherjee,Mumbai,Bike,Gig,2024-04-25
+P2238,Neha Banerjee,Delhi,Bike,Gig,2026-04-08
+P2239,Ishita Mukherjee,Mumbai,Electric Bike,Gig,2023-12-16
+P2240,Priya Nair,Bengaluru,Bike,Full-time,2026-01-16
+P2241,Siddharth Das,Mumbai,Bicycle,Full-time,2025-12-30
+P2242,Aditi Das,Delhi,Motorcycle,Full-time,2026-01-29
+P2243,Riya Mehta,delhi,Scooter,Gig,2024-10-25
+P2244,Sunita Reddy,Mumbai,Bike,Full-time,2024-09-23
+P2245,Riya Ghosh,Bengaluru,Scooter,Full-time,2023-06-10
+P2246,Riya Iyer,Hyd,Bike,Full-time,2025-04-08
+P2247,Shreya Menon,mumbai,Bike,Full-time,2024-08-02
+P2248,Sneha Iyer,Chennai,Scooter,Gig,2023-06-06
+P2249,Aditi Patel,Kolkata,Scooter,Gig,2025-03-04
+P2250,Riya Nair,Bangalore,Bike,Gig,2025-03-23
+P2251,Nandini Rao,Bengaluru,Scooter,Full-time,2023-04-26
+P2252,Ritika Bose,Mumbai,EV Bike,Gig Worker,2023-02-21
+P2253,Pranav Mukherjee,Bengaluru,Bike,Gig,2023-10-06
+P2254,Vivaan Rao,Delhi,Bike,Gig,2025-10-11
+P2255,Tanvi Banerjee,Mumbai,EV Bike,Gig,2023-01-18
+P2256,Manish Kumar,Chennai,Bike,Gig,2023-12-26
+P2257,Swati Kulkarni,Bengaluru,EV Bike,Gig,2023-11-16
+P2258,Aditi Pillai,Pune,Scooter,Gig,2025-12-29
+P2259,Sourav Reddy,Pune,EV Bike,Full-time,2023-09-11
+P2260,Ananya Nair,Bengaluru,Scooter,Gig,2024-05-09
+P2261,Neha Kapoor,Pune,Bike,Gig,2023-09-16
+P2262,Manish Naidu,Delhi,Bike,Gig,2025-09-17
+P2263,Aarav Nair,Delhi,Bike,Gig,2025-12-18
+P2264,Vivaan Iyer,Bengaluru,EV Bike,Full-time,2023-09-06
+P2265,Meera Patel,Kolkata,Bike,Full-time,2024-01-29
+P2266,Siddharth Das,Delhi,Bike,Gig,2025-06-03
+P2267,Ishaan Kapoor,Pune,Bike,Gig Worker,2025-10-26
+P2268,Kavya Ghosh,Bengaluru,Motorcycle,Gig Worker,2025-11-07
+P2269,Ritika Sharma,Delhi,Scooter,Gig,2026-04-21
+P2270,Sneha Pillai,Kolkata,Scooter,Gig,2025-12-01
+P2271,Sneha Das,Mumbai,Bike,Full-time,2025-05-26
+P2272,Sunita Chatterjee,Chennai,EV Bike,Gig,2023-02-18
+P2273,Karthik Desai,Bengaluru,Bike,Gig,2026-04-04
+P2274,Vivaan Singh,Pune,Motorcycle,Gig,2026-04-09
+P2275,Debashis Sen,Chennai,Scooter,Gig,2025-06-08
+P2276,Siddharth Malhotra,Hyderabad,Bicycle,Gig,2023-09-28
+P2277,Neha Kapoor,Kolkata,Bike,Gig,2024-11-17
+P2278,Diya Das,mumbai,Bike,Gig,2024-06-07
+P2279,Tanvi Jain,Pune,Bike,Full-time,2025-04-16
+P2280,Harsh Patel,Kolkata,EV Bike,Gig,2024-01-30
+P2281,Nandini Mukherjee,Chennai,Bike,Gig,2023-06-27
+P2282,Aditi Banerjee,Mumbai,Bike,Full-time,2023-10-31
+P2283,Nikhil Das,chennai,Bike,Gig,2026-02-23
+P2284,Harsh Pillai,bengaluru,Bike,Gig,2023-02-02
+P2285,Yash Menon,Delhi,Bike,Full-time,2024-06-15
+P2286,Amit Sen,Delhi,Bike,Full-time,2024-02-24
+P2287,Ishita Gupta,Delhi,Scooter,Gig,2025-12-19
+P2288,Meera Agarwal,Bengaluru,Scooter,Full-time,2024-10-18
+P2289,Ritika Agarwal,Bengaluru,Scooter,Gig Worker,2024-07-25
+P2290,Nikhil Mukherjee,Hyderabad,Scooter,Full-time,2023-12-30
+P2291,Vikram Verma,Pune,Scooter,FT,2025-07-19
+P2292,Shreya Iyer,Bengaluru,EV Bike,Gig,2024-11-21
+P2293,Aditya Mukherjee,Pune,bike,Gig,2024-09-23
+P2294,Ananya Kulkarni,Mumbai,Bike,Full-time,2024-12-19
+P2295,Sanjana Rao,Mumbai,Bike,Full-time,2025-04-29
+P2296,Priya Ghosh,Bengaluru,Bicycle,Gig,2023-04-21
+P2297,Aditi Naidu,Mumbai,Bike,Gig,2025-09-14
+P2298,Anjali Mehta,mumbai,Bicycle,Full-time,2024-04-14
+P2299,Neha Mukherjee,Delhi,Scooter,Gig,2025-04-06
+P2300,Ishita Verma,Mumbai,Scooter,gig,2024-08-01
+P2301,Rahul Ghosh,Kolkata,Bike,Gig,2023-08-17
+P2302,Aarav Menon,Bengaluru,Scooter,Gig,2023-09-02
+P2303,Sunita Mehta,Kolkata,Scooter,Full-time,2024-09-18
+P2304,Lakshmi Reddy,Mumbai,Bicycle,Gig,2023-08-15
+P2305,Anjali Chatterjee,Delhi,Bike,Full-time,2024-10-08
+P2306,Kabir Agarwal,Mumbai,EV Bike,Full-time,2023-12-19
+P2307,Vikram Gupta,Bengaluru,Bike,Full-time,2023-08-25
+P2308,Priya Mukherjee,Mumbai,EV Bike,Gig,2025-01-29
+P2309,Kavya Kumar,Hyderabad,EV Bike,Full-time,2023-03-10
+P2310,Rohan Menon,Delhi,Scooter,Full-time,2026-05-28
+P2311,Siddharth Kapoor,Mumbai,Bike,Gig,2025-06-19
+P2312,Nikhil Jain,Mumbai,Motorcycle,Full Time,2023-04-13
+P2313,Diya Patel,Kolkata,Bike,Full-time,2024-06-10
+P2314,Sanjana Gupta,Mumbai,EV Bike,Full-time,2024-05-04
+P2315,Ritika Kumar,BLR,Bicycle,Full-time,2026-04-30
+P2316,Ananya Shah,Bengaluru,EV Bike,Full-time,2025-01-13
+P2317,Sneha Patel,Delhi,Scooter,Gig,2024-10-26
+P2318,Nikhil Singh,Hyderabad ,Bike,Full-time,2023-08-25
+P2319,Siddharth Menon,Delhi,Bike,Gig,2025-12-31
+P2320,Manish Chatterjee,Chennai,Bike,Gig,2024-05-18
+P2321,Aditi Bose,Delhi,Scooter,Full-time,2026-02-18
+P2322,Rohan Malhotra,Delhi,Bike,Full-time,2023-12-15
+P2323,Nandini Desai,delhi,Bike,Full-time,2024-11-16
+P2324,Siddharth Jain,PUNE,Bike,Gig,2023-04-06
+P2325,Nikhil Sen,Hyderabad,Bike,Gig,2024-12-16
+P2326,Aditi Desai,Bengaluru,EV Bike,Full-time,2023-05-18
+P2327,Debashis Rao,Hyderabad,Bike,Full-time,2025-08-08
+P2328,Vivaan Patel,Bengaluru,Bike,Full-time,2023-11-17
+P2329,Nandini Nair,Pune,Bicycle,Gig,2023-09-16
+P2330,Suresh Mukherjee,Delhi,Bike,Full-time,2023-05-30
+P2331,Meera Kulkarni,Madras,EV Bike,Gig,2025-02-12
+P2332,Rohan Kapoor,Mumbai,Bike,Full-time,2024-06-26
+P2333,Sneha Verma,Kolkata,Bike,Full-time,2025-12-23
+P2334,Tanvi Ghosh,Bengaluru,Scooter,Full-time,2023-09-03
+P2335,Sneha Sen,Pune,Bike,Full-time,2023-09-23
+P2336,Karthik Iyer,Pune,Bike,Gig,2023-06-08
+P2337,Rahul Agarwal,Pune,Bike,Gig,2024-02-05
+P2338,Anjali Ghosh,Delhi,EV Bike,Gig,2024-07-02
+P2339,Vivaan Agarwal,MUMBAI,Bike,Gig,2023-04-23
+P2340,Meera Gupta,Bombay,Scooty,Gig Worker,2025-03-09
+P2341,Aditya Iyer,Delhi,Electric Bike,Full-time,2024-01-24
+P2342,Ritika Jain,Delhi,Bike,Gig,2023-01-13
+P2343,Manish Rao,Mumbai,Bike,Full-time,2024-04-07
+P2344,Pooja Kapoor,Mumbai,EV Bike,Gig,2024-11-08
+P2345,Lakshmi Reddy,Pune,Scooter,Full-time,2023-09-16
+P2346,Shreya Naidu,Madras,Bike,Gig,2024-04-24
+P2347,Manish Desai,Kolkata,Scooter,Full-time,2024-08-26
+P2348,Vikram Kumar,Mumbai,Bike,Full-time,2025-02-08
+P2349,Anjali Patel,DELHI,scooter,Gig,2025-04-18
+P2350,Suresh Chopra,Kolkata,Scooter,Full-time,2024-01-06
+P2351,Nikhil Das,pune,Bike,Full-time,2024-03-28
+P2352,Tanvi Kulkarni,Hyderabad,Bike,gig,2024-01-01
+P2353,Karthik Mukherjee,BLR,Bike,Gig,2023-12-16
+P2354,Priya Pillai,Bangalore,Bicycle,Gig,2026-05-16
+P2355,Sunita Verma,Calcutta,Bike,Gig,2023-01-06
+P2356,Riya Naidu,Kolkata,Bike,Full-time,2023-04-01
+P2357,Sourav Joshi,Bengaluru,Bike,Gig,2024-09-06
+P2358,Ananya Chatterjee,Pune,Motorcycle,Full-time,2023-01-26
+P2359,Lakshmi Shah,Bengaluru,Bike,Full-time,2023-01-07
+P2360,Vivaan Kumar,Bengaluru,Scooter,Full-time,2023-06-14
+P2361,Arjun Das,Kolkata,Scooter,Full-time,2025-07-06
+P2362,Manish Jain,Delhi,Bike,Full-time,2024-02-09
+P2363,Debashis Verma,Mumbai,Bike,Full-time,2026-02-05
+P2364,Ritika Iyer,Delhi,Bike,gig,2024-08-21
+P2365,Shreya Banerjee,Bengaluru,Scooter,Full-time,2023-12-16
+P2366,Sunita Pillai,Bengaluru,Bike,Gig,2024-02-27
+P2367,Ananya Chopra,Bengaluru,Bike,Gig,2024-08-10
+P2368,Swati Pillai,Pune,Bike,gig,2025-04-18
+P2369,Rohan Joshi,Delhi,Bike,Gig,2023-03-04
+P2370,Rahul Bose,Delhi,Bike,Full-time,2025-10-23
+P2371,Vivaan Malhotra,Delhi,Scooter,Full-time,2023-09-23
+P2372,Meera Rao,Bengaluru,Bicycle,Full-time,2023-04-09
+P2373,Riya Das,Delhi,Scooter,Gig,2023-05-03
+P2374,Aarav Gupta,Bengaluru,Bike,Full-time,2023-07-07
+P2375,Pranav Singh,Bengaluru,EV Bike,Gig,2024-10-11
+P2376,Aarav Chopra,Mumbai,Bike,Full-time,2025-07-20
+P2377,Manish Ghosh,Mumbai,EV Bike,Full-time,2025-10-02
+P2378,Rahul Ghosh,Madras,Bike,Gig,2023-02-21
+P2379,Manish Sen,Hyderabad,Bike,Gig,2025-06-07
+P2380,Neha Kapoor,Delhi,Bike,Gig,2024-06-27
+P2381,Arjun Desai,Delhi,Bike,Full-time,2025-06-12
+P2382,Manish Kapoor,Kolkata,Bike,Gig,2025-10-30
+P2383,Pranav Iyer,MUMBAI,bike,Full-time,2024-08-08
+P2384,Pranav Das,Mumbai,Bike,Gig,2024-04-10
+P2385,Nandini Kapoor,Hyderabad,Scooter,gig,2023-06-15
+P2386,Swati Ghosh,Chennai,Bike,Full-time,2024-07-08
+P2387,Vivaan Sen,Hyderabad,Scooter,Gig,2024-11-11
+P2388,Rohan Gupta,Mumbai,Bike,Gig,2024-07-26
+P2389,Karthik Mukherjee,Bengaluru,Scooter,Full-time,2023-02-15
+P2390,Aditya Iyer,Delhi,bike,Gig,2023-04-30
+P2391,Shreya Chatterjee,Delhi,Bike,Gig,2023-09-13
+P2392,Vivaan Bose,Mumbai,Bike,Gig,2025-12-27
+P2393,Vivaan Gupta,Mumbai,Motorcycle,Full-time,2025-03-14
+P2394,Debashis Patel,Delhi,Bike,Gig,2026-02-27
+P2395,Pranav Iyer,Hyderabad,Scooter,Gig Worker,2023-10-01
+P2396,Neha Singh,Mumbai,EV Bike,Full-time,2023-11-19
+P2397,Pranav Rao,Kolkata,Bike,Full-time,2026-05-03
+P2398,Sourav Pillai,Delhi,Bike,Gig,2025-04-24
+P2399,Nikhil Chopra,Bengaluru,Bike,Gig,2026-05-03
+P2400,Siddharth Patel,Delhi,Scooter,Full-time,2024-11-27
+P2401,Riya Singh,Bengaluru,Bike,Full-time,2023-08-13
+P2402,Ananya Patel,Chennai,Motorcycle,Gig,2023-11-18
+P2403,Yash Pillai,Hyderabad,Bike,Gig,2023-09-01
+P2404,Vivaan Rao,Delhi,EV Bike,gig,2025-11-13
+P2405,Suresh Malhotra,Mumbai,Scooter,Gig,2023-01-12
+P2406,Harsh Jain,Delhi,Bike,Full-time,2024-12-08
+P2407,Aditi Joshi,Mumbai,bike,Gig,2023-06-18
+P2408,Suresh Kumar,Pune,Scooter,Gig,2024-12-28
+P2409,Riya Agarwal,Mumbai,Bike,Full-time,2024-03-20
+P2410,Ishita Ghosh,Chennai,bike,Full-time,2026-02-28
+P2411,Manish Verma,Kolkata,Bike,Gig,2024-07-09
+P2412,Sanjana Verma,Kolkata,Bike,Full-time,2024-11-04
+P2413,Aarav Kapoor,Bengaluru,Bike,Full-time,2024-10-14
+P2414,Anjali Patel,Bengaluru,bike,Gig,2023-11-11
+P2415,Aditi Ghosh,Bengaluru,Bike,Full-time,2023-07-18
+P2416,Ishaan Reddy,Hyderabad,Bike,Gig,2023-07-17
+P2417,Shreya Iyer,Bengaluru,Scooter,Gig,2025-01-02
+P2418,Aditi Chopra,Delhi,Bike,Full-time,2024-12-06
+P2419,Tanvi Gupta,Hyderabad,Scooter,Gig,2026-05-25
+P2420,Priya Nair,Kolkata,bike,Gig,2025-02-25
+P2421,Diya Desai,New Delhi,scooter,Full-time,2026-02-05
+P2422,Sunita Naidu,Delhi,EV Bike,Gig,2026-05-31
+P2423,Ananya Pillai,Bengaluru,Bike,Gig,2023-05-22
+P2424,Ananya Jain,Bengaluru,EV Bike,Gig,2024-12-01
+P2425,Sanjana Bose,Mumbai,EV Bike,Full-time,2025-08-14
+P2426,Ishita Verma,Delhi,Bike,Gig,2023-01-30
+P2427,Nandini Shah,Kolkata,Bike,Full-time,2024-05-31
+P2428,Meera Sen,Delhi,Bike,Full-time,2023-04-27
+P2429,Rohan Desai,Chennai,Bike,Gig,2026-04-22
+P2430,Aarav Pillai,Bengaluru,Bike,Gig,2023-09-17
+P2431,Siddharth Bose,Bengaluru,Bike,Gig,2024-10-12
+P2432,Arjun Kumar,Hyderabad,Scooter,Full-time,2024-05-03
+P2433,Pranav Singh,Bengaluru,Bike,Gig,2024-03-02
+P2434,Priya Shah,Chennai,EV Bike,Gig,2025-01-05
+P2435,Aditi Chopra,Delhi,Bike,Gig,2024-05-30
+P2436,Sneha Iyer,Bengaluru,Bike,Gig,2023-10-22
+P2437,Swati Kumar,Kolkata,Scooter,Gig,2023-11-17
+P2438,Lakshmi Joshi,Chennai,Scooter,Gig,2026-03-15
+P2439,Sanjana Singh,Kolkata,EV Bike,Gig,2025-03-17
+P2440,Aditi Singh,Hyderabad,Bike,Full-time,2023-01-22
+P2441,Nikhil Mehta,Delhi,EV Bike,Gig,2024-04-23
+P2442,Karthik Nair,Bengaluru,Bike,Gig,2025-10-02
+P2443,Neha Kapoor,Delhi,EV Bike,Gig,2026-03-18
+P2444,Amit Mehta,Delhi,Scooter,Full-time,2025-10-23
+P2445,Siddharth Pillai,Kolkata,Bike,Full-time,2023-02-16
+P2446,Aditya Patel,Bengaluru ,EV Bike,Full-time,2024-01-06
+P2447,Debashis Menon,Delhi,Bike,Full-time,2024-02-20
+P2448,Karthik Pillai,Bombay,Bike,Full-time,2023-09-05
+P2449,Sunita Pillai,Delhi,EV Bike,Gig,2024-12-27

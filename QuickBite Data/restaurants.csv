@@ -1,0 +1,325 @@
+restaurant_id,restaurant_name,cuisine,tier,city,area,commission_pct,onboarded_date
+R1000, Pizza Darbar,Desserts & Bakery,Cloud Kitchen,Chennai,T Nagar,12.0,2023-08-21
+R1001,Silver Bites,Burgers & Fast Food,Standard,Mumbai,Powai,18.0,2024-05-10
+R1002,Fresh Point,chinese,Cloud Kitchen,Pune,Baner,17.0,2025-08-15
+R1003,Curry Junction,Street Food & Rolls,Standard,Bengaluru,HSR Layout,18.0,2024-04-29
+R1004,Grand Express,Biryani,Standard,Chennai,T Nagar,0.22,2023-02-01
+R1005,Royal Kitchen,South Indian,Standard,Delhi,Lajpat Nagar,17.0,2023-09-01
+R1006,Tandoor Express,North Indian,Premium,Bengaluru,Whitefield,23.0,2025-04-19
+R1007,Spice Bites,Pizza & Italian,Premium,Kolkata,Behala,22.0,2023-03-18
+R1008,Pizza Corner,Desserts & Bakery,Cloud Kitchen,Pune,Kothrud,14.0,2024-06-26
+R1009,Silver Express,Burgers & Fast Food,Standard,Chennai,Adyar,22.0,2023-02-14
+R1010,Sweet Villa,South Indian,Premium,Bengaluru,HSR Layout,23.0,2025-04-26
+R1011,Hyderabadi Table,Biriyani,Premium,Mumbai,Thane,25.0,2023-10-09
+R1012,Chai Junction,Biryani,Standard,Bengaluru,HSR Layout,20.0,2023-09-08
+R1013,Curry Express,Healthy & Salads,Premium,Mumbai,Bandra,23.0,2024-05-29
+R1014,Silver Bites,Pizza & Italian,Premium,Mumbai,Andheri,22.0,07/03/2023
+R1015,Desi Story,North Indian,Cloud Kitchen,Mumbai,Thane,16.0,2023-08-13
+R1016,Hyderabadi Kitchen,North Indian,Cloud Kitchen,Delhi,Saket,14.0,2023-03-03
+R1017,Wok Express,Street Food & Rolls,Standard,Hyderabad,Gachibowli,21.0,2025-01-14
+R1018,Chai Corner,Biryani,Premium,Hyderabad,Banjara Hills,23.0,2023-06-04
+R1019, Royal Story,Street Food & Rolls,Standard,Bengaluru,Indiranagar,21.0,2023-07-13
+R1020,Punjabi House,Chinese,Standard,Mumbai,Andheri,17.0,26/04/2024
+R1021,Hungry Junction,North Indian,Standard,Hyderabad,Kukatpally,18.0,2023-08-17
+R1022,Pizza Kitchen,Chinese,Premium,Pune,Viman Nagar,23.0,2023-01-08
+R1023,Green Junction,South Indian,Standard,Hyderabad,Madhapur,18.0,2023-10-13
+R1024,Rolls Kitchen,Pizza & Italian,Premium,DELHI,Saket,27.0,2024-11-20
+R1025,Chai Bites,North Indian,Standard,Pune,Baner,16.0,2023-11-14
+R1026,Punjabi Darbar,Desserts & Bakery,Premium,Bengaluru,Whitefield,26.0,2023-03-11
+R1027,Burger Villa,Street Food & Rolls,Standard,Kolkata,New Town,20.0,2023-04-12
+R1028,Biryani Villa,Biryani,Standard,Bengaluru,HSR Layout,19.0,2024-04-07
+R1029,Burger Table,North Indian,Standard,Mumbai,Thane,19.0,2025-02-05
+R1030,Namaste Corner,Chinese,Standard,Delhi,Rohini,17.0,2024-09-23
+R1031,Kolkata Bites,Burgers & Fast Food,Standard,Hyderabad,Gachibowli,22.0,2024-05-18
+R1032,Rolls Corner,North Indian,Premium,Kolkata,New Town,24.0,2023-10-30
+R1033,Namaste Point,Pizza & Italian,Cloud Kitchen,Bengaluru,Whitefield,14.0,2025-03-27
+R1034,Royal Villa,Desserts & Bakery,Cloud Kitchen,Delhi ,Lajpat Nagar,17.0,2024-09-29
+R1035,Tasty Story,Chinese,Premium,Kolkata,Park Street,28.0,2025-05-09
+R1036,Pizza Corner,Chinese,Cloud Kitchen,Mumbai,Powai,12.0,2025-07-04
+R1037,Curry House,Pizza & Italian,Standard,Hyderabad,Gachibowli,0.16,2023-01-21
+R1038,Silver Express,South Indian,Standard,Hyderabad,Madhapur,22.0,2023-08-15
+R1039, Tasty Point,N. Indian,Cloud Kitchen,Kolkata,Behala,13.0,2025-06-05
+R1040,Sweet Corner,South Indian,Premium,Mumbai,Bandra,22.0,2025-09-14
+R1041,Pizza Express,Biryani,Cloud Kitchen,Chennai,Velachery,12.0,2023-10-21
+R1042, Golden Hub,South Indian,Cloud Kitchen,Bengaluru,Koramangala,14.0,25/10/2023
+R1043,Rolls Express,North Indian,Standard,Delhi,Rohini,17.0,2024-07-09
+R1044,Hungry Villa,pizza & italian,Standard,Kolkata,Salt Lake,22.0,2024-12-10
+R1045,Namaste House,Biryani,Standard,Mumbai,Powai,20.0,2025-07-09
+R1046,Tandoor Story,N. Indian,Standard,Hyderabad,Madhapur,20.0,2025-07-07
+R1047,Delhi Table,Chinese,Premium,Mumbai,Powai,28.0,2023-06-01
+R1048,Silver House,Street Food & Rolls,Premium,Bengaluru,Indiranagar,0.23,2024-01-14
+R1049,Tasty Kitchen,Chinese,Standard,Hyderabad,Madhapur,21.0,2025-04-21
+R1050,Royal Point,Biryani,Premium,Mumbai,Thane,26.0,2023-01-01
+R1051,Biryani Table,North Indian,Standard,bengaluru,Indiranagar,19.0,2024-08-18
+R1052,Grand Kitchen,Biryani,Cloud Kitchen,Delhi,Saket,18.0,2023-04-17
+R1053,Hungry Story,North Indian,Cloud Kitchen,Kolkata,New Town,16.0,2023-11-10
+R1054,Golden Corner,Street Food & Rolls,Standard,mumbai,Andheri,16.0,2025-07-02
+R1055,Biryani House,Street Food & Rolls,Cloud Kitchen,Bengaluru,HSR Layout,14.0,2025-06-23
+R1056, Madras Darbar,Pizza & Italian,Standard,Hyderabad,Madhapur,21.0,2025-04-28
+R1057,Desi Junction,North Indian,Standard,Delhi,Lajpat Nagar,22.0,2024-09-01
+R1058,Urban House,South Indian,Standard,Delhi,Rohini,16.0,2024-10-21
+R1059,Golden Hub,Biryani,Standard,chennai,Velachery,18.0,2023-10-23
+R1060,Royal Express,Chinese,Standard,Mumbai,Andheri,18.0,2025-01-01
+R1061,Sweet House,Chinese,Premium,Hyderabad,Gachibowli,28.0,2025-03-26
+R1062,Silver Express,N. Indian,Premium,Chennai,Anna Nagar,25.0,2023-02-13
+R1063,Punjabi Kitchen,Biryani,Cloud Kitchen,Bengaluru,Koramangala,13.0,2024-06-08
+R1064,Chai Bites,North Indian,Standard,Hyderabad,Gachibowli,,2023-06-07
+R1065,Chai House,North Indian,Standard,Mumbai,Thane,0.19,2024-07-17
+R1066,Golden House,Pizza & Italian,Premium,chennai,Adyar,25.0,2024-06-10
+R1067,Little Villa,North Indian,Standard,Bengaluru,HSR Layout,19.0,14/12/2023
+R1068,Punjabi Express,North Indian,Cloud Kitchen,Hyderabad,Banjara Hills,14.0,2025-02-20
+R1069,Bombay Story,Burgers & Fast Food,Standard,Bengaluru,Whitefield,21.0,2024-03-08
+R1070,Sweet Corner,Biryani,Premium,Delhi,Dwarka,26.0,2023-01-04
+R1071,Spice Bites,Burgers & Fast Food,Standard,Hyderabad,Gachibowli,16.0,2025-04-21
+R1072,Wok Villa,Chinese,Cloud Kitchen,Delhi,Lajpat Nagar,18.0,2024-05-26
+R1073,Fresh Table,Street Food & Rolls,Cloud Kitchen,Hyderabad,Madhapur,14.0,2025-03-20
+R1074,Desi Bites,Pizza & Italian,Premium,Bombay,Thane,24.0,2025-09-03
+R1075,Silver Corner,Biryani,Premium,Mumbai,Powai,23.0,2023-01-03
+R1076,Sweet Table,Biryani,Premium,Mumbai,Andheri,26.0,2024-01-05
+R1077, Urban Story,Healthy & Salads,Standard,Hyderabad,Madhapur,17.0,2024-09-12
+R1078,Burger Darbar,Pizza and Italian,Premium,DELHI,Saket,27.0,12/04/2025
+R1079,Namaste House,Chinese,Premium,Mumbai,Powai,0.25,2024-01-24
+R1080,Delhi Corner,Pizza & Italian,Cloud Kitchen,Bengaluru,Indiranagar,15.0,2023-12-20
+R1081,Rolls Darbar,Chinese,Standard,Pune,Viman Nagar,19.0,2025-06-25
+R1082,Hungry Junction,Pizza & Italian,Premium,Hyderabad,Gachibowli,27.0,2023-09-05
+R1083,Hungry Express,Chinese,Cloud Kitchen,Delhi,Saket,18.0,2024-03-31
+R1084,Kolkata Bites,Chinese,Standard,Hyderabad,Gachibowli,22.0,2025-05-16
+R1085,Saffron Kitchen,Chinese,Standard,Hyderabad,Banjara Hills,17.0,2023-07-13
+R1086,Hungry Kitchen,Biryani,Standard,Bengaluru,Whitefield,20.0,2023-12-16
+R1087,Silver Villa,Chinese,Standard,Hyderabad,Kukatpally,0.18,2024-01-25
+R1088,Pizza Table,N. Indian,Cloud Kitchen,Delhi,Lajpat Nagar,18.0,2024-07-03
+R1089,Biryani Junction,Chinese,Cloud Kitchen,Bengaluru,HSR Layout,17.0,2023-05-04
+R1090,Chai Express,Street Food & Rolls,Cloud Kitchen,Bengaluru,Koramangala,16.0,2025-01-25
+R1091,Wok Story,North Indian,Premium,Delhi,Dwarka,27.0,2023-09-12
+R1092,Fresh Kitchen,South Indian,Premium,Hyderabad,Kukatpally,24.0,2025-06-17
+R1093,Golden House,Biryani,Premium,BLR,Indiranagar,23.0,2023-03-21
+R1094,Hyderabadi Kitchen,South Indian,Cloud Kitchen,Bombay,Powai,17.0,2024-07-14
+R1095,Namaste Villa,South Indian,Standard,Mumbai,Powai,18.0,2024-04-22
+R1096,Curry Villa,Desserts & Bakery,Standard,Bangalore,Koramangala,20.0,2024-05-22
+R1097,Bombay Villa,Burgers & Fast Food,Standard,Pune,Baner,20.0,2023-01-12
+R1098,Wok Corner,South Indian,Standard,Mumbai,Andheri,18.0,01/05/2024
+R1099,Tandoor Point,Chinese,Cloud Kitchen,Hyderabad,Kukatpally,15.0,2023-10-26
+R1100,Bombay Villa,Healthy & Salads,Standard,Mumbai,Bandra,17.0,2023-06-28
+R1101,Grand Junction,Biryani,Premium,Kolkata,Behala,28.0,2023-04-29
+R1102,Grand Corner,Burgers & Fast Food,Cloud Kitchen,Bengaluru,HSR Layout,14.0,2025-08-21
+R1103,Royal Express,Healthy & Salads,Standard,Bengaluru,Indiranagar,0.18,2023-05-06
+R1104,Silver Kitchen,Burgers & Fast Food,Premium,Bengaluru,HSR Layout,0.22,2025-01-06
+R1105,Kolkata Point,Biryani,Standard,Chennai,Adyar,20.0,2024-10-05
+R1106,Tandoor Villa,Biryani,Premium,Mumbai,Thane,27.0,19/09/2023
+R1107,Little Kitchen,Chinese,Standard,Delhi,Dwarka,20.0,2023-10-18
+R1108,Hungry Darbar,Biryani,Standard,Kolkata,New Town,16.0,2025-01-06
+R1109,Spice Bites,Chinese,Cloud Kitchen,Mumbai,Powai,17.0,2023-01-07
+R1110,Royal Darbar,Burgers & Fast Food,Premium,Bengaluru,Koramangala,23.0,2023-09-19
+R1111,Spice Bites,Desserts & Bakery,Cloud Kitchen,Bengaluru,Indiranagar,14.0,2024-11-28
+R1112,Chai Express,north indian,Premium,Mumbai,Andheri,25.0,11/07/2024
+R1113,Silver Point,Burgers & Fast Food,Standard,Mumbai,Bandra,22.0,2024-03-04
+R1114,Saffron Corner,north indian,Standard,Pune,Baner,18.0,2023-02-19
+R1115,Curry Bites,Street Food & Rolls,Standard,Chennai,Velachery,0.2,2023-06-11
+R1116,Tasty Darbar,Healthy & Salads,Premium,Chennai,Adyar,27.0,2024-04-08
+R1117,Sweet Junction,South Indian,Premium,Delhi,Lajpat Nagar,24.0,2023-03-03
+R1118,Curry Darbar,Street Food & Rolls,Standard,Mumbai,Thane,22.0,2023-07-26
+R1119,Golden Express,Biryani,Standard,Bengaluru,HSR Layout,22.0,2023-07-31
+R1120, Hyderabadi Villa,North Indian,Standard,Bengaluru,Whitefield,18.0,2024-11-29
+R1121,Kolkata Bites,South Indian,Standard,Delhi,Lajpat Nagar,17.0,2023-02-23
+R1122,Wok Villa,Biryani,Standard,Delhi,Saket,21.0,2025-04-25
+R1123,Pizza Express,Street Food & Rolls,Standard,Mumbai,Thane,19.0,2023-02-10
+R1124,Little Express,Biryani,Standard,Mumbai,Powai,22.0,2023-05-26
+R1125,Fresh Story,Pizza & Italian,Premium,Mumbai,Thane,24.0,2024-08-28
+R1126,Hungry Villa,Healthy & Salads,Cloud Kitchen,Chennai,Adyar,13.0,2025-05-21
+R1127,Curry Bites,North Indian,Cloud Kitchen,Bengaluru,Whitefield,18.0,2024-07-28
+R1128, Royal Darbar,Burgers & Fast Food,Standard,Hyderabad,Gachibowli,21.0,2023-12-05
+R1129,Chai Villa,Desserts & Bakery,Standard,Hyderabad,Kukatpally,17.0,2023-02-24
+R1130,Desi Point,N. Indian,Premium,Bengaluru,Whitefield,25.0,2023-06-09
+R1131,Burger Villa,Burgers & Fast Food,Cloud Kitchen,Mumbai,Bandra,14.0,2023-01-24
+R1132,Golden Junction,N. Indian,Cloud Kitchen,Bengaluru,Whitefield,18.0,2025-08-05
+R1133,Golden Corner,North Indian,Standard,Bengaluru,Indiranagar,19.0,10/03/2024
+R1134,Bombay Junction,north indian,Standard,Delhi,Dwarka,16.0,2025-06-13
+R1135,Masala Table,South Indian,Standard,Mumbai,Andheri,16.0,2023-07-22
+R1136,Fresh Express,Chinese,Standard,Hyderabad,Madhapur,17.0,2025-03-05
+R1137,Fresh Bites,North Indian,Standard,Mumbai,Powai,22.0,2025-02-25
+R1138,Punjabi Table,Pizza & Italian,Premium,Delhi,Rohini,23.0,2025-02-10
+R1139,Spice Story,South Indian,Standard,Delhi,Lajpat Nagar,17.0,2023-03-15
+R1140,Silver Hub,North Indian,Standard,Kolkata,Behala,,2023-04-05
+R1141,Urban Darbar,Street Food & Rolls,Standard,Delhi,Lajpat Nagar,22.0,2023-03-07
+R1142,Namaste Story,Street Food & Rolls,Cloud Kitchen,Delhi ,Rohini,12.0,2024-01-12
+R1143,Green Bites,Desserts & Bakery,Standard,Chennai,T Nagar,,08/07/2025
+R1144,Chai Bites,Biryani,Cloud Kitchen,Bengaluru,Whitefield,15.0,2023-11-05
+R1145,Green Corner,Burgers & Fast Food,Cloud Kitchen,Bengaluru,HSR Layout,14.0,2025-03-20
+R1146,Urban Kitchen,Burgers & Fast Food,Premium,Pune,Viman Nagar,25.0,20/02/2025
+R1147, Punjabi Bites,South Indian,Cloud Kitchen,Kolkata,Behala,0.14,2023-06-17
+R1148,Tasty Villa,Street Food & Rolls,Cloud Kitchen,Delhi,Saket,13.0,2023-06-02
+R1149,Royal Darbar,Street Food & Rolls,Standard,Delhi,Lajpat Nagar,22.0,2025-01-24
+R1150,Biryani Hub,Pizza & Italian,Standard,Pune,Kothrud,17.0,2024-07-23
+R1151,Urban Story,Pizza & Italian,Cloud Kitchen,Delhi,Dwarka,13.0,2023-09-08
+R1152,Hungry House,Healthy & Salads,Premium,Pune,Viman Nagar,23.0,2024-05-04
+R1153,Sweet Story,Desserts & Bakery,Standard,Hyderabad,Banjara Hills,18.0,2024-04-15
+R1154,Saffron Corner,Pizza and Italian,Standard,Mumbai,Andheri,17.0,2023-04-10
+R1155,Chai Kitchen,North Indian,Cloud Kitchen,pune,Baner,18.0,2023-06-24
+R1156,Madras Darbar,North Indian,Standard,MUMBAI,Bandra,21.0,2024-02-20
+R1157,Biryani Table,North Indian,Premium,Chennai,Adyar,24.0,2025-03-29
+R1158,Madras Hub,Chinese,Premium,Bengaluru,Koramangala,27.0,2025-07-21
+R1159,Sweet Corner,north indian,Standard,Hyderabad,Madhapur,16.0,2023-01-23
+R1160,Spice Point,Street Food & Rolls,Standard,Hyderabad,Kukatpally,,09/07/2025
+R1161,Silver Villa,Burgers & Fast Food,Premium,Delhi,Rohini,22.0,2025-08-04
+R1162,Chai Story,Burgers & Fast Food,Cloud Kitchen,Mumbai,Powai,12.0,2025-06-04
+R1163,Biryani Villa,Pizza & Italian,Standard,Mumbai,Bandra,21.0,2025-06-22
+R1164,Kolkata Point,Healthy & Salads,Standard,Mumbai,Andheri,19.0,2024-08-10
+R1165,Curry Villa,Pizza & Italian,Premium,Mumbai,Andheri,26.0,2024-07-20
+R1166,Madras Kitchen,Chinese,Standard,Delhi,Saket,20.0,2024-06-12
+R1167,Desi House,Pizza & Italian,Cloud Kitchen,Hyderabad,Banjara Hills,14.0,2023-06-24
+R1168,Rolls Point,North Indian,Standard,Bengaluru,HSR Layout,17.0,2023-04-13
+R1169,Spice Story,Street Food & Rolls,Premium,Mumbai,Powai,22.0,2023-05-26
+R1170,Hyderabadi Express,South Indian,Standard,hyderabad,Banjara Hills,22.0,2023-10-19
+R1171,Silver Table,biryani,Cloud Kitchen,bengaluru,HSR Layout,14.0,2024-01-20
+R1172,Saffron Junction,Burgers & Fast Food,Standard,Kolkata,Salt Lake,22.0,2025-09-24
+R1173,Hyderabadi Table,biryani,Premium,Chennai,Adyar,22.0,2024-09-03
+R1174,Royal Bites,South Indian,Cloud Kitchen,Hyderabad,Kukatpally,13.0,2024-01-18
+R1175,Masala Kitchen,Chinese,Standard,Kolkata,Park Street,20.0,2024-02-15
+R1176,Saffron Story,South Indian,Cloud Kitchen,Bengaluru,Whitefield,16.0,2023-11-24
+R1177,Grand Bites,Biryani,Premium,Bengaluru,Indiranagar,26.0,2024-06-05
+R1178, Sweet Story,Burgers & Fast Food,Standard,Bengaluru,Indiranagar,18.0,2025-09-04
+R1179,Fresh Kitchen,South Indian,Premium,Pune,Baner,25.0,2024-12-23
+R1180,Urban Corner,Biryani,Standard,Delhi,Rohini,18.0,2025-02-21
+R1181,Desi Story,Pizza & Italian,Standard,Mumbai,Andheri,17.0,2025-01-29
+R1182,Namaste Point,Desserts & Bakery,Cloud Kitchen,Hyderabad,Gachibowli,15.0,2025-04-20
+R1183,Biryani Corner,North Indian,Standard,Delhi,Rohini,22.0,2023-08-23
+R1184,Tasty Junction,Healthy & Salads,Standard,Mumbai,Thane,22.0,2023-02-02
+R1185,Curry Kitchen,Biryani,Standard,Mumbai,Andheri,,2023-07-26
+R1186,Little Hub,Burgers & Fast Food,Standard,Delhi,Lajpat Nagar,21.0,2023-12-04
+R1187,Delhi Kitchen,Biryani,Standard,Hyderabad,Kukatpally,16.0,2023-09-28
+R1188,Burger Corner,Healthy & Salads,Standard,Kolkata,New Town,16.0,2025-03-01
+R1189,Hungry Kitchen,Biryani,Standard,Bengaluru,Koramangala,22.0,2023-02-02
+R1190,Delhi Point,North Indian,Standard,Chennai,T Nagar,16.0,2023-01-14
+R1191,Bombay Junction,Biryani,Standard,Chennai,Adyar,21.0,2024-12-02
+R1192,Tandoor Story,Desserts & Bakery,Standard,Mumbai,Thane,21.0,2023-07-19
+R1193,Chai Point,Biryani,Cloud Kitchen,Pune,Hinjewadi,14.0,2025-09-22
+R1194,Namaste Corner,north indian,Cloud Kitchen,Hyderabad,Kukatpally,18.0,2024-03-18
+R1195,Silver House,Biryani,Premium,Mumbai,Andheri,26.0,2024-07-01
+R1196,Hungry Table,Chinese,Cloud Kitchen,Pune,Baner,12.0,2025-01-11
+R1197,Hyderabadi House,Desserts & Bakery,Premium,Kolkata,New Town,23.0,2024-04-03
+R1198,Hungry Junction,biryani,Premium,Bengaluru,HSR Layout,25.0,2025-09-10
+R1199, Chai Junction,North Indian,Standard,Bengaluru,Indiranagar,19.0,2024-03-31
+R1200,Punjabi Story,South Indian,Standard,New Delhi,Lajpat Nagar,22.0,2024-06-17
+R1201,Grand House,north indian,Cloud Kitchen,Pune,Viman Nagar,15.0,2025-04-01
+R1202,Spice Darbar,Burgers & Fast Food,Cloud Kitchen,Mumbai,Andheri,13.0,2024-07-13
+R1203,Kolkata Table,South Indian,Standard,Bengaluru,Indiranagar,19.0,2025-03-18
+R1204,Punjabi Kitchen,Pizza & Italian,Standard,Hyderabad,Kukatpally,22.0,2025-01-26
+R1205,Curry Junction,Biryani,Cloud Kitchen,pune,Kothrud,12.0,2025-03-04
+R1206,Golden Darbar,South Indian,Cloud Kitchen,Delhi,Lajpat Nagar,12.0,2023-06-28
+R1207,Fresh Villa,North Indian,Cloud Kitchen,Pune,Kothrud,18.0,2023-03-21
+R1208,Grand Table,Desserts & Bakery,Cloud Kitchen,Bengaluru,Koramangala,16.0,2024-08-05
+R1209,Delhi Kitchen,Burgers & Fast Food,Standard,BLR,Indiranagar,22.0,2025-06-04
+R1210,Sweet Hub,North Indian,Premium,hyderabad,Kukatpally,27.0,2023-04-01
+R1211,Sweet Corner,Healthy & Salads,Premium,Hyderabad,Madhapur,22.0,2024-12-20
+R1212,Saffron Table,Burgers & Fast Food,Premium,Delhi,Lajpat Nagar,22.0,2024-10-29
+R1213, Masala Table,North Indian,Standard,Mumbai,Thane,17.0,2024-01-06
+R1214,Bombay Corner,chinese,Standard,Delhi,Lajpat Nagar,19.0,2024-12-31
+R1215,Spice Kitchen,North Indian,Standard,Kolkata,Park Street,21.0,2023-06-14
+R1216,Punjabi Express,Chinese,Standard,Bengaluru,Koramangala,0.17,2024-03-13
+R1217,Bombay Darbar,Healthy & Salads,Premium,Bengaluru,Whitefield,28.0,2024-01-10
+R1218,Tandoor Express,Biryani,Standard,Delhi ,Rohini,19.0,2023-05-12
+R1219,Desi Bites,Biryani,Premium,Chennai,Velachery,24.0,2024-01-07
+R1220,Hungry Bites,South Indian,Standard,Delhi,Lajpat Nagar,18.0,2023-09-06
+R1221,Spice Point,Burgers & Fast Food,Standard,Delhi,Rohini,17.0,2024-04-13
+R1222,Little Hub,South Indian,Premium,Bengaluru,HSR Layout,0.22,2023-08-01
+R1223,Madras Junction,Chinese,Standard,Mumbai,Thane,21.0,2023-01-10
+R1224,Curry Story,Burgers & Fast Food,Standard,Bengaluru,Whitefield,18.0,08/10/2024
+R1225,Masala Express,N. Indian,Standard,Pune,Viman Nagar,17.0,2024-02-25
+R1226,Tandoor Junction,Biryani,Cloud Kitchen,Mumbai,Bandra,12.0,2023-02-20
+R1227,Royal Darbar,South Indian,Premium,Delhi,Saket,23.0,2024-05-11
+R1228,Fresh Point,Biryani,Premium,Mumbai,Powai,22.0,2023-04-08
+R1229,Little Hub,Desserts & Bakery,Premium,Bengaluru,Indiranagar,28.0,2023-04-15
+R1230,Urban Corner,Pizza & Italian,Standard,Bengaluru,Indiranagar,17.0,2024-06-14
+R1231,Saffron House,Pizza & Italian,Cloud Kitchen,Mumbai,Andheri,14.0,17/06/2024
+R1232,Bombay Express,Street Food & Rolls,Cloud Kitchen,Hyderabad,Madhapur,17.0,2025-02-01
+R1233,Delhi Kitchen,Street Food & Rolls,Standard,Kolkata,Behala,19.0,2023-11-20
+R1234,Punjabi Point,Healthy & Salads,Standard,Hyderabad,Madhapur,22.0,2024-02-02
+R1235,Masala Express,Biryani,Premium,Delhi,Rohini,22.0,2025-03-05
+R1236,Namaste Darbar,North Indian,Premium,Bengaluru,Indiranagar,26.0,2023-06-18
+R1237,Kolkata Darbar,Burgers & Fast Food,Cloud Kitchen,Delhi,Dwarka,13.0,2023-10-18
+R1238,Namaste Villa,South Indian,Standard,KOLKATA,New Town,20.0,2023-12-08
+R1239,Sweet Villa,Street Food & Rolls,Premium,Mumbai,Bandra,23.0,2024-05-19
+R1240,Urban Junction,Burgers & Fast Food,Cloud Kitchen,Mumbai,Bandra,16.0,2024-10-14
+R1241,Desi Hub,Street Food & Rolls,Standard,Mumbai,Powai,20.0,2024-03-06
+R1242,Namaste Corner,South Indian,Cloud Kitchen,Delhi,Saket,17.0,2023-11-29
+R1243,Biryani Point,Healthy & Salads,Standard,Mumbai,Andheri,17.0,2023-10-19
+R1244,Desi Table,North Indian,Cloud Kitchen,Delhi,Saket,15.0,2025-07-12
+R1245,Punjabi Bites,Burgers & Fast Food,Standard,Delhi,Saket,20.0,2025-07-01
+R1246,Bombay Point,Desserts & Bakery,Standard,Pune,Hinjewadi,19.0,2023-08-07
+R1247,Namaste Express,South Indian,Standard,New Delhi,Saket,18.0,2024-11-27
+R1248, Silver Kitchen,North Indian,Standard,Delhi,Rohini,20.0,2024-05-08
+R1249,Spice Table,Chinese,Standard,Mumbai,Powai,18.0,2023-04-16
+R1250,Burger Hub,chinese,Premium,Hyderabad,Gachibowli,23.0,2023-11-15
+R1251,Saffron Darbar,Chinese,Cloud Kitchen,Hyderabad,Madhapur,15.0,2025-02-12
+R1252,Green Darbar,Biryani,Standard,Mumbai,Bandra,20.0,2024-09-27
+R1253,Golden Table,North Indian,Standard,Mumbai,Thane,22.0,2024-08-31
+R1254,Delhi Corner,Street Food & Rolls,Standard,Delhi,Rohini,19.0,2024-10-26
+R1255,Chai Darbar,Biryani,Cloud Kitchen,Chennai,Anna Nagar,14.0,2023-05-28
+R1256,Pizza Point,pizza & italian,Standard,Hyderabad,Gachibowli,22.0,2025-05-28
+R1257,Hungry Corner,North Indian,Standard,Mumbai,Andheri,22.0,2023-07-25
+R1258,Madras Darbar,Pizza & Italian,Standard,Mumbai,Andheri,19.0,2025-09-10
+R1259,Masala Kitchen,north indian,Standard,Mumbai,Bandra,17.0,2024-09-09
+R1260,Burger Table,Chinese,Standard,Chennai,T Nagar,17.0,2024-09-01
+R1261,Bombay Corner,South Indian,Standard,Hyderabad,Gachibowli,20.0,2023-06-05
+R1262, Silver Express,Chinese,Standard,Bengaluru,Whitefield,21.0,2025-08-13
+R1263,Golden Kitchen,Street Food & Rolls,Standard,Chennai,Adyar,20.0,2023-02-13
+R1264,Little Express,Biryani,Premium,Mumbai,Thane,22.0,2024-05-21
+R1265,Burger Bites,South Indian,Cloud Kitchen,Chennai,Velachery,18.0,2023-07-22
+R1266,Punjabi Corner,Biryani,Standard,Mumbai,Thane,19.0,2023-10-21
+R1267,Tandoor Point,N. Indian,Cloud Kitchen,Kolkata,Behala,12.0,2023-03-17
+R1268,Burger Point,North Indian,Standard,Mumbai,Bandra,20.0,2025-05-14
+R1269,Saffron Kitchen,Chinese,Cloud Kitchen,Hyderabad,Gachibowli,18.0,2024-10-22
+R1270,Saffron Hub,Biryani,Cloud Kitchen,Mumbai,Thane,18.0,2023-12-14
+R1271,Sweet Table,Biryani,Standard,Hyderabad,Kukatpally,,2025-01-11
+R1272,Pizza Villa,north indian,Cloud Kitchen,Mumbai,Bandra,17.0,2024-01-02
+R1273,Green Point,North Indian,Standard,Pune,Kothrud,20.0,14/10/2024
+R1274,Kolkata Bites,Street Food & Rolls,Standard,Bengaluru,Indiranagar,20.0,2024-02-13
+R1275,Spice Table,Chinese,Standard,Delhi,Dwarka,17.0,2023-07-26
+R1276,Golden Darbar,Desserts & Bakery,Standard,Mumbai,Thane,19.0,2025-03-03
+R1277,Silver Corner,Burgers & Fast Food,Standard,Bengaluru,Whitefield,19.0,2025-01-04
+R1278,Pizza Darbar,Chinese,Standard,Delhi,Saket,20.0,2023-11-18
+R1279,Fresh Express,North Indian,Premium,hyderabad,Madhapur,26.0,2025-03-25
+R1280,Curry House,North Indian,Premium,Bengaluru,Koramangala,23.0,2023-04-17
+R1281,Fresh Story,Pizza & Italian,Cloud Kitchen,Mumbai,Powai,16.0,2025-03-13
+R1282,Fresh House,North Indian,Standard,Hyderabad,Madhapur,22.0,2023-06-07
+R1283,Fresh Bites,Burgers & Fast Food,Premium,Kolkata,Salt Lake,24.0,2025-02-28
+R1284,Silver House,Biryani,Premium,Pune,Kothrud,28.0,23/12/2024
+R1285,Biryani Junction,Chinese,Cloud Kitchen,Kolkata,Park Street,17.0,2023-12-12
+R1286,Fresh Junction,Street Food & Rolls,Cloud Kitchen,bengaluru,Koramangala,13.0,2024-08-03
+R1287,Chai Junction,North Indian,Cloud Kitchen,Chennai,T Nagar,13.0,2023-05-04
+R1288,Golden Story,Biryani,Standard,Mumbai,Thane,18.0,04/04/2023
+R1289,Golden Junction,Street Food & Rolls,Standard,Mumbai,Thane,22.0,2024-01-22
+R1290,Rolls Express,Burgers & Fast Food,Premium,Delhi,Lajpat Nagar,26.0,2024-03-02
+R1291,Silver Express,Biryani,Premium,Bengaluru,Indiranagar,24.0,2023-08-02
+R1292,Pizza Darbar,South Indian,Cloud Kitchen,Delhi,Rohini,,2025-08-08
+R1293,Curry Villa,biryani,Standard,Hyderabad,Madhapur,0.21,24/11/2023
+R1294,Green House,Burgers & Fast Food,Cloud Kitchen,Bengaluru,Indiranagar,17.0,2024-01-27
+R1295,Curry Hub,South Indian,Cloud Kitchen,Hyderabad,Gachibowli,13.0,2025-05-26
+R1296,Tandoor Hub,South Indian,Standard,kolkata,Behala,19.0,2023-01-06
+R1297,Tasty Express,South Indian,Standard,bengaluru,Whitefield,19.0,2023-01-05
+R1298,Burger Bites,Chinese/Asian,Standard,Kolkata,Park Street,16.0,2025-09-04
+R1299,Tandoor Junction,Desserts & Bakery,Standard,Mumbai,Bandra,18.0,18/08/2025
+R1300, Biryani Villa,Burgers & Fast Food,Standard,Bengaluru,Whitefield,21.0,2024-06-12
+R1301,Hyderabadi Kitchen,Desserts & Bakery,Cloud Kitchen,BLR,HSR Layout,12.0,2023-06-15
+R1302,Bombay Bites,North Indian,Cloud Kitchen,Delhi,Saket,17.0,2025-08-27
+R1303,Saffron Junction,South Indian,Premium,Mumbai,Thane,25.0,2024-08-11
+R1304,Urban Bites,Street Food & Rolls,Standard,Hyderabad,Gachibowli,17.0,2023-10-06
+R1305,Madras Kitchen,Chinese,Standard,Hyderabad,Gachibowli,0.16,2024-12-17
+R1306,Grand Story,South Indian,Cloud Kitchen,Bengaluru,Indiranagar,17.0,2023-02-12
+R1307,Pizza Story,North Indian,Premium,Chennai,T Nagar,26.0,2024-05-19
+R1308,Royal Villa,pizza & italian,Standard,Mumbai,Andheri,17.0,2024-10-18
+R1309,Burger Corner,South Indian,Standard,Delhi,Dwarka,16.0,2025-03-10
+R1310, Delhi Table,North Indian,Cloud Kitchen,Mumbai,Bandra,15.0,2024-04-04
+R1311,Rolls Hub,North Indian,Premium,Mumbai,Andheri,0.22,2025-04-23
+R1312,Chai Express,Healthy & Salads,Premium,Bengaluru,Indiranagar,25.0,2025-09-03
+R1313,Bombay Hub,Desserts & Bakery,Standard,Delhi,Saket,0.21,07/04/2024
+R1314,Delhi Junction,Biryani,Premium,Bengaluru,Koramangala,28.0,2024-12-22
+R1315,Sweet Table,South Indian,Cloud Kitchen,hyderabad,Gachibowli,14.0,2023-08-08
+R1316,Bombay Darbar,North Indian,Standard,Kolkata,New Town,20.0,2025-04-24
+R1317,Pizza Table,Pizza & Italian,Standard,Bengaluru,HSR Layout,19.0,2024-05-04
+R1318,Fresh Villa,Chinese,Standard,Hyderabad,Kukatpally,16.0,2025-03-28
+R1319,Madras Corner,Pizza & Italian,Cloud Kitchen,Mumbai,Andheri,16.0,2023-10-30
+R1400,Kolkata Bites,Chinese,Standard,Hyderabad,Gachibowli,22.0,2025-05-16
+R1401,Fresh Villa,Chinese,Standard,Hyderabad,Kukatpally,16.0,2025-03-28
+R1402,Burger Bites,Chinese/Asian,Standard,Kolkata,Park Street,16.0,2025-09-04
+R1403,Chai Junction,North Indian,Cloud Kitchen,Chennai,T Nagar,13.0,2023-05-04

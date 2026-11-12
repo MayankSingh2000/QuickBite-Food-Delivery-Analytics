@@ -1,0 +1,8 @@
+promo_code,promo_type,discount_value,max_discount,min_order_value,start_date,end_date,eligibility
+WELCOME100,Flat,100,100,299,2025-01-01,2026-06-30,New customers
+FIRST50,Percent,50,100,149,2025-01-01,2026-06-30,New customers
+MEGA50,Percent,50,200,199,2025-06-01,2026-03-31,All customers
+WEEKEND20,Percent,20,80,249,2025-01-01,2026-06-30,Sat-Sun only
+LUNCH15,Percent,15,60,199,2025-01-01,2026-06-30,11am-2pm only
+FREEDEL,FreeDelivery,0,0,199,2025-03-01,2026-06-30,All customers
+BIGSPEND150,Flat,150,150,999,2025-01-01,2026-06-30,Orders above 999
