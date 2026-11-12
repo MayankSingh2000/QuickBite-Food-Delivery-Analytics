@@ -36,7 +36,7 @@ An end-to-end data analyst project on a food-delivery business. Raw CSV extracts
 
 | Customer experience | Marketing |
 |---|---|
-|  https://github.com/MayankSingh2000/QuickBite-Food-Delivery-Analytics/blob/main/Visualizations/Customer%20Experience.png?raw=true) |  ![image alt]https://github.com/MayankSingh2000/QuickBite-Food-Delivery-Analytics/blob/main/Visualizations/Marketing.png?raw=true) |
+| ![image alt](https://github.com/MayankSingh2000/QuickBite-Food-Delivery-Analytics/blob/main/Visualizations/Customer%20Experience.png?raw=true) |  ![image alt](https://github.com/MayankSingh2000/QuickBite-Food-Delivery-Analytics/blob/main/Visualizations/Marketing.png?raw=true) |
 
 ## Stakeholder questions and findings
 
