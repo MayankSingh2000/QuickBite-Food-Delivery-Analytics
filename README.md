@@ -251,4 +251,21 @@ Three stored procedures take parameters: `usp_monthly_performance` (date range a
 
 ---
 
-**Author:** Your Name | [LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:you@example.com)
+## 👨‍💻 Author
+
+**Mayank Singh |
+Aspiring Data Analyst | SQL | Power BI | Excel | Python**
+
+Passionate about transforming raw data into meaningful insights through data cleaning, exploratory data analysis, visualization, and business reporting.
+
+Currently seeking entry-level Data Analyst opportunities where I can apply my analytical and technical skills to solve real-world business problems.
+
+GitHub: https://github.com/MayankSingh2000
+
+LinkedIn: www.linkedin.com/in/mayank-singh-aaa112135
+
+---
+
+⭐ If you find this project useful, feel free to explore the files, documents and its analytical findings.
+
+**Thank you for visiting!**
