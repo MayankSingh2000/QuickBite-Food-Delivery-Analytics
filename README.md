@@ -27,6 +27,7 @@ An end-to-end data analyst project on a food-delivery business. Raw CSV extracts
 11. [Power BI report](#power-bi-report)
 12. [How to run](#how-to-run)
 13. [Tools and skills](#tools-and-skills)
+14. [Author](#author)
 
 ## Dashboard
 
