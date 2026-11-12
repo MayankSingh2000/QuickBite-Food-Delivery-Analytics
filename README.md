@@ -190,6 +190,9 @@ erDiagram
     fact_orders    ||--o| fact_deliveries : order_id
     fact_orders    ||--o{ fact_reviews    : order_id
     dim_partner    ||--o{ fact_deliveries : partner_key
+
+![image alt](https://github.com/MayankSingh2000/QuickBite-Food-Delivery-Analytics/blob/main/Visualizations/Data%20Model.png?raw=true)
+
 ```
 
 ## Key definitions
