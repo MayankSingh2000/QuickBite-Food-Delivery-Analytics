@@ -181,15 +181,7 @@ The `dw` star schema has three fact tables and five dimensions. Every dimension 
 | dim_date | one row per day, 1 Jan 2023 to 31 Dec 2026 | |
 | dim_customer, dim_restaurant, dim_partner, dim_promo | one row per entity plus the unknown member | |
 
-```mermaid
-erDiagram
-    dim_date       ||--o{ fact_orders     : date_key
-    dim_customer   ||--o{ fact_orders     : customer_key
-    dim_restaurant ||--o{ fact_orders     : restaurant_key
-    dim_promo      ||--o{ fact_orders     : promo_key
-    fact_orders    ||--o| fact_deliveries : order_id
-    fact_orders    ||--o{ fact_reviews    : order_id
-    dim_partner    ||--o{ fact_deliveries : partner_key
+![image alt](https://github.com/MayankSingh2000/QuickBite-Food-Delivery-Analytics/blob/main/Visualizations/Data%20Model.png?raw=true)
 
 ```
 
