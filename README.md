@@ -183,7 +183,6 @@ The `dw` star schema has three fact tables and five dimensions. Every dimension 
 
 ![image alt](https://github.com/MayankSingh2000/QuickBite-Food-Delivery-Analytics/blob/main/Visualizations/Data%20Model.png?raw=true)
 
-```
 
 ## Key definitions
 
