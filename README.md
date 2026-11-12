@@ -194,6 +194,8 @@ The `dw` star schema has three fact tables and five dimensions. Every dimension 
 - **Late delivery (SLA breach)** = delivered more than 1 minute after the promised time, measured from the moment the order was placed. A 1-minute tolerance is used because some order timestamps have no seconds. Results at 5, 10 and 15 minutes are also shown in the analysis.
 - Measures are left empty (NULL) where an input is unknown, rather than guessed, so averages leave those orders out.
 
+---
+
 ## Reporting layer
 
 `05_Reporting_Layer.sql` creates the `rpt` schema:
@@ -215,6 +217,8 @@ The `dw` star schema has three fact tables and five dimensions. Every dimension 
 
 Three stored procedures take parameters: `usp_monthly_performance` (date range and city), `usp_cancellations` (date range and city) and `usp_rfm_segments` (as-of date). A check query at the end of the script compares 12 view results with the numbers found in the analysis.
 
+---
+
 ## Power BI report
 
 | Page | Questions | Contents |
@@ -229,12 +233,16 @@ Three stored procedures take parameters: `usp_monthly_performance` (date range a
 - **DAX:** 21 measures, including `Orders`, `Delivered Orders`, `GMV`, `Net Revenue`, `Total Contribution`, `Contribution per Order`, `Avg Basket`, `Avg Discount`, `Avg Payout`, `Cancellation Rate`, `Customer Cancel Rate`, `Restaurant Cancel Rate`, `No Partner Rate`, `SLA Breach %`, `Avg Rating`, `Refund %`, `Refunded Value`, `Refund Cost % of GMV`, `Customers`, `Promo Orders %` and `Customers Signed Up`. Dashboard totals were reconciled with the SQL results.
 - **Design:** dark theme (`QuickBite_Dark_Theme.json`), synced City and Month slicers, a page navigator, conditional formatting, and chart titles that state the finding. The views are fixed all-time results, so the slicers do not filter them.
 
+---
+
 ## How to run
 
 1. Save the CSV files in a folder and set `@path` in `00_create_database_and_import.sql` to that folder.
 2. Run the SQL files `00` to `05` in order in SQL Server Management Studio (SQL Server 2017 or later).
 3. Open `powerbi/QuickBite_Dashboard.pbix`, choose **Transform data > Data source settings**, and change the server to your own SQL Server instance.
 4. To use the dark theme in another report, import `QuickBite_Dark_Theme.json` from **View > Themes > Browse for themes**.
+
+---
 
 ## Tools and skills
 
